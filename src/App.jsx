@@ -98,7 +98,7 @@ function App() {
        xs:h-full xs:w-full xs:flex-col xs:rounded-none xs:scale-100"
       >
         <a className="" href="#inicio" onClick={handleClick}>
-          Inisscio
+          Inicio
         </a>
 
         <a className="" href="#proyectos" onClick={handleClick}>
